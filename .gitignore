@@ -11,6 +11,7 @@
 *.db
 *.ipch
 *.xml
+
 *.targets
 /TESTTTTTAAAAAAAAAA/.vs/TESTTTTTAAAAAAAAAA.slnx/v18
 /TESTTTTTAAAAAAAAAA/packages/nupengl.core.redist.0.1.0.1
@@ -18,3 +19,4 @@
 /TESTTTTTAAAAAAAAAA/packages/nupengl.core.0.1.0.1
 /TESTTTTTAAAAAAAAAA/TESTTTTTAAAAAAAAAA/x64/Debug
 *.user
+
